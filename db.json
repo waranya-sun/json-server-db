@@ -16,7 +16,7 @@
     },
     {
       "id": 3,
-      "message": "wireless down 789",
+      "message": "Wireless down 789",
       "attention": true,
       "tech": "John Doe",
       "date": "2021-10-01T12:15:20.121Z"
